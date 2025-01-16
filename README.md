@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @The-Michael-Chen
-- 👀 I’m interested in exciting developments in technology
-- 🌱 I’m currently studying Electrical Engineering and Computer Science at MIT
-- 📫 How to reach me 02chenmichael@gmail.com
+- 👀 I'm building yondu.ai
 
 <!---
 The-Michael-Chen/The-Michael-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
